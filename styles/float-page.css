@@ -6,8 +6,9 @@ body {
 main {
   padding-left: 90px;
   padding-right: 90px;
-  width: 2000px;
+  width: 1000px;
   margin-left: auto;
+  margin-right: auto;
 }
 
 .space {
