@@ -22,7 +22,8 @@ nav ul {
  position:absolute;
 left:0;
 top:0;
- margin-left: 40px
+ margin-left: 40px;
+border: 1px solid black;
 }
 
 .text {
